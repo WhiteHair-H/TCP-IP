@@ -36,5 +36,41 @@
     <ClCompile Include="fd_seri.c">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="inet_addr.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="inet_aton.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="inet_ntoa.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="hello_server2.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="hello_client2.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="echo_server.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="echo_client.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="echo_client2.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="op_client.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="op_server.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="uecho_server.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="uecho_client.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

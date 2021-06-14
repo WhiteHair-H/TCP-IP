@@ -140,13 +140,25 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="echo_client.c" />
+    <ClCompile Include="echo_client2.c" />
+    <ClCompile Include="echo_server.c" />
     <ClCompile Include="endian_conv.c" />
     <ClCompile Include="fd_seri.c" />
     <ClCompile Include="Hello_client.c" />
+    <ClCompile Include="hello_client2.c" />
     <ClCompile Include="Hello_server.c" />
+    <ClCompile Include="hello_server2.c" />
+    <ClCompile Include="inet_addr.c" />
+    <ClCompile Include="inet_aton.c" />
+    <ClCompile Include="inet_ntoa.c" />
     <ClCompile Include="low_open.c" />
     <ClCompile Include="low_read.c" />
+    <ClCompile Include="op_client.c" />
+    <ClCompile Include="op_server.c" />
     <ClCompile Include="tcp_client.c" />
+    <ClCompile Include="uecho_client.c" />
+    <ClCompile Include="uecho_server.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

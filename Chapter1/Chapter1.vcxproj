@@ -140,11 +140,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bound_host1.c" />
+    <ClCompile Include="bound_host2.c" />
     <ClCompile Include="echo_client.c" />
     <ClCompile Include="echo_client2.c" />
     <ClCompile Include="echo_server.c" />
     <ClCompile Include="endian_conv.c" />
     <ClCompile Include="fd_seri.c" />
+    <ClCompile Include="file_client.c" />
+    <ClCompile Include="file_server.c" />
+    <ClCompile Include="gethostbyaddr.c" />
     <ClCompile Include="Hello_client.c" />
     <ClCompile Include="hello_client2.c" />
     <ClCompile Include="Hello_server.c" />
@@ -156,8 +161,14 @@
     <ClCompile Include="low_read.c" />
     <ClCompile Include="op_client.c" />
     <ClCompile Include="op_server.c" />
+    <ClCompile Include="get_buf.c" />
+    <ClCompile Include="remove_zombie.c" />
+    <ClCompile Include="reuseadr_eserver.c" />
+    <ClCompile Include="set_buf.c" />
+    <ClCompile Include="sock_type.c" />
     <ClCompile Include="tcp_client.c" />
     <ClCompile Include="uecho_client.c" />
+    <ClCompile Include="uecho_con_client.c" />
     <ClCompile Include="uecho_server.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

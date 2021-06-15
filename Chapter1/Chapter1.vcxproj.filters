@@ -72,5 +72,38 @@
     <ClCompile Include="uecho_client.c">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="bound_host1.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bound_host2.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="uecho_con_client.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_server.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_client.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gethostbyaddr.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sock_type.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="get_buf.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="set_buf.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="reuseadr_eserver.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="remove_zombie.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

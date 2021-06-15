@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter1", "Chapter1.vcxproj", "{42A3253D-CA9A-49A9-A3D6-7D72FEF2FFEC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TCP-IP", "TCP-IP.vcxproj", "{42A3253D-CA9A-49A9-A3D6-7D72FEF2FFEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DDD48D18-7068-4C84-BC31-952D3C7123A6}
+		SolutionGuid = {71880B84-F49C-4D9A-B13F-FA4E781F6782}
 	EndGlobalSection
 EndGlobal

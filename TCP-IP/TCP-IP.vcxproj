@@ -144,7 +144,11 @@
     <ClCompile Include="bound_host2.c" />
     <ClCompile Include="echo_client.c" />
     <ClCompile Include="echo_client2.c" />
+    <ClCompile Include="echo_mpclient.c" />
+    <ClCompile Include="echo_mpserv.c" />
+    <ClCompile Include="echo_selectserv.c" />
     <ClCompile Include="echo_server.c" />
+    <ClCompile Include="echo_storeserv.c" />
     <ClCompile Include="endian_conv.c" />
     <ClCompile Include="fd_seri.c" />
     <ClCompile Include="file_client.c" />
@@ -164,9 +168,14 @@
     <ClCompile Include="get_buf.c" />
     <ClCompile Include="remove_zombie.c" />
     <ClCompile Include="reuseadr_eserver.c" />
+    <ClCompile Include="select.c" />
     <ClCompile Include="set_buf.c" />
     <ClCompile Include="sock_type.c" />
     <ClCompile Include="tcp_client.c" />
+    <ClCompile Include="thread1.c" />
+    <ClCompile Include="thread2.c" />
+    <ClCompile Include="thread3.c" />
+    <ClCompile Include="thread4.c" />
     <ClCompile Include="uecho_client.c" />
     <ClCompile Include="uecho_con_client.c" />
     <ClCompile Include="uecho_server.c" />

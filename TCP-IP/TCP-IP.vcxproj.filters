@@ -105,5 +105,32 @@
     <ClCompile Include="remove_zombie.c">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="echo_mpserv.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="echo_mpclient.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="echo_storeserv.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="select.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="echo_selectserv.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="thread1.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="thread2.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="thread3.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="thread4.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

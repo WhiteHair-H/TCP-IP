@@ -142,6 +142,8 @@
   <ItemGroup>
     <ClCompile Include="bound_host1.c" />
     <ClCompile Include="bound_host2.c" />
+    <ClCompile Include="char_server.c" />
+    <ClCompile Include="chat_clnt.c" />
     <ClCompile Include="echo_client.c" />
     <ClCompile Include="echo_client2.c" />
     <ClCompile Include="echo_mpclient.c" />
@@ -163,12 +165,14 @@
     <ClCompile Include="inet_ntoa.c" />
     <ClCompile Include="low_open.c" />
     <ClCompile Include="low_read.c" />
+    <ClCompile Include="mutex.c" />
     <ClCompile Include="op_client.c" />
     <ClCompile Include="op_server.c" />
     <ClCompile Include="get_buf.c" />
     <ClCompile Include="remove_zombie.c" />
     <ClCompile Include="reuseadr_eserver.c" />
     <ClCompile Include="select.c" />
+    <ClCompile Include="semaphore.c" />
     <ClCompile Include="set_buf.c" />
     <ClCompile Include="sock_type.c" />
     <ClCompile Include="tcp_client.c" />
@@ -179,6 +183,8 @@
     <ClCompile Include="uecho_client.c" />
     <ClCompile Include="uecho_con_client.c" />
     <ClCompile Include="uecho_server.c" />
+    <ClCompile Include="web.cpp" />
+    <ClCompile Include="webpage.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
